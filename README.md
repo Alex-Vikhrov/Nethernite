@@ -1,2 +1,2 @@
-https://alex-vikhrov.github.io/Nethernite/index.html
+https://alex-vikhrov.github.io/Nethernite/Nethernite/index.html
 
